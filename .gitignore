@@ -1,0 +1,4 @@
+clearshot_rc.o
+clearshot.exe
+libuser32extra.a
+libcomctl32extra.a

@@ -1,0 +1,4 @@
+LIBRARY COMCTL32.dll
+EXPORTS
+TaskDialog@32
+TaskDialogIndirect@16
